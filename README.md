@@ -14,7 +14,7 @@ This repository contains a Spring Boot project implementing a CRUD (Create, Read
 This project demonstrates the implementation of a basic CRUD system using Spring Boot. It provides RESTful APIs for managing:
 
 - Products
-- Images associated with products
+- Images
 
 The project follows best practices for designing RESTful APIs and utilizes Spring Boot's powerful tools for rapid development.
 
